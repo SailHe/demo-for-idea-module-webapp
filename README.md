@@ -1,5 +1,7 @@
 # demo-for-IdeaModuleWebapp
 
+0. 若配置失败或不想配置 可参考系压缩包, 其中含有idea的配置文件(因此只有idea可以不用配置 idea版本后: 2018.2.4)
+*  链接：https://pan.baidu.com/s/1sDI01JWkLL_kWQJhoiOBtA 提取码：67ry 
 1. web框架中常出现的webapp目录的创建
 2. clone完成后 点击右下角Add as Maven Project 和 Configure Framework
 3. 跳至F
