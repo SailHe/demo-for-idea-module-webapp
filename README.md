@@ -1,4 +1,9 @@
 # demo-for-IdeaModuleWebapp
+
+1. web框架中常出现的webapp目录的创建
+2. clone完成后 点击右下角Add as Maven Project 和 Configure Framework
+3. 跳至F
+
 * `A` - 建立maven项目
 * `B` - 建立maven项目的子模块
 * `C` - 配置子模块的web框架
